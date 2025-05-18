@@ -20,6 +20,7 @@
      });
  };
  
+ 
  module.exports = {
      getAll,
      getSingle
