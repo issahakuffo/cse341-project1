@@ -17,10 +17,13 @@
   },
   "homepage": "https://github.com/issahakuffo/cse341-project1#readme",
   "dependencies": {
+    "body-parser": "^2.2.0",
     "cors": "^2.8.5",
     "dotenv": "^16.5.0",
     "express": "^5.1.0",
     "mongobd": "^0.0.1-security.0",
-    "mongodb": "^6.16.0"
+    "mongodb": "^6.16.0",
+    "swagger-autogen": "^2.23.7",
+    "swagger-ui-express": "^5.0.1"
   }
 }
